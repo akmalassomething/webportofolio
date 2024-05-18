@@ -199,7 +199,7 @@
                 <h1 class=" text-4xl text-center">Our Sosmed</h1>
                 </div>
                 <div class="flex mt-5">
-                    <img src="instagram.svg" alt=" " class="hover:bg-[#FFFDE7] hover:rounded-xl hover:border hover:border-black">
+                   <a href="https://wa.me/qr/NA6KEOEFQHEUF1"> <img src="instagram.svg" alt=" " class="hover:bg-[#FFFDE7] hover:rounded-xl hover:border hover:border-black"></a>
                     <img src="facebook.svg" alt="" class="hover:bg-[#FFFDE7] hover:rounded-xl hover:border hover:border-black">
                     <img src="github.svg" alt="" class="hover:bg-[#FFFDE7] hover:rounded-xl hover:border hover:border-black">
                     
